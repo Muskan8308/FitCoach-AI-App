@@ -28,8 +28,8 @@ A fitness tracking web application with an integrated AI chatbot powered by the 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
-cd your-project-folder
+git clone https://github.com/Muskan8308/FitCoach-AI-App
+cd fitcoach-ai
 ```
 
 ### 2. Install dependencies
@@ -56,8 +56,8 @@ npm run dev
 
 ## Live Demo
 
-https://your-app.vercel.app
-
+[https://your-pp.vercel.app
+](https://fitcoach-ai-amber.vercel.app/)
 ---
 
 ## AI Chatbot Functionality
