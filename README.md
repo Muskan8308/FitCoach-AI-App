@@ -87,5 +87,5 @@ It takes user input, sends it to the API, and displays short, practical fitness 
 
 ## Author
 
-Muskan
+Muskan Chourasia  
 Final Year B.Tech Student
